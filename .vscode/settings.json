@@ -1,0 +1,16 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#3038442d",
+        "editor.lineHighlightBorder": "#414141a6",
+        "editor.renderLineHighlight": "none",
+        "editorError.foreground": "#00000000",
+        "editorWarning.foreground": "#00000000",
+        "editorInfo.foreground": "#00000000",
+        "terminal.background": "#002e3d",
+        "statusBar.background": "#333",
+        "statusBar.foreground": "#fff",
+        "statusBar.noFolderBackground": "#333",
+        "statusBar.noFolderForeground": "#fff",
+        "minimap.background": "#00000000"
+    }
+}
